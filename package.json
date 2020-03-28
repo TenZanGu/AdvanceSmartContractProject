@@ -13,7 +13,6 @@
   "license": "ISC",
   "devDependencies": {
     "truffle": "^5.1.11",
-    "openzeppelin-solidity": "2.0.0",
     "chai": "^4.2.0",
     "eth-gas-reporter": "^0.1.12",
     "ethereumjs-abi": "^0.6.7",
