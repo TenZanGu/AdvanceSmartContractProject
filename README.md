@@ -16,3 +16,17 @@ Users may sign up to receive tokens from the owner off-chain, and that owner wil
 - `Store` user addresses and the amount of tokens they should receive
 - Construct a Merkle tree with the leaves being the keccak256 hash of the user's address and the amount of tokens (see the `generateLeaves` method in the test file for an example)
 - Provide users with the `proof` associated to their leaf and the positions
+
+## Installation
+
+Install package
+
+`
+npm install
+`
+
+To test the contract with Truffle
+
+`
+npm test
+`
